@@ -1,0 +1,23 @@
+{
+  "source_movie_count": 2000,
+  "generated_detail_pages": 2000,
+  "category_covered_movies": 2000,
+  "category_counts": {
+    "guochan": 200,
+    "koubei": 200,
+    "juji": 200,
+    "xuanyi": 199,
+    "xiju": 200,
+    "aiqing": 201,
+    "dongzuo": 200,
+    "kehuan": 200,
+    "kongbu": 199,
+    "jilu": 201
+  },
+  "html_file_count": 2018,
+  "html_files_with_baidu_analytics": 2018,
+  "missing_analytics": [],
+  "video_source_count_from_uploaded_js": 150,
+  "unique_video_source_count": 20,
+  "jpg_files_in_zip": 0
+}
